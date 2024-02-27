@@ -6,8 +6,8 @@ Este é um aplicativo simples de Calculadora de IMC (Índice de Massa Corporal) 
 
 ## Capturas de Tela
 
-![Captura de Tela 1]([screenshots/screenshot1.png](https://i.imgur.com/46oA3xB.png))
-![Captura de Tela 2]([screenshots/screenshot2.png](https://i.imgur.com/s1tQz21.jpeg))
+![Captura de Tela 1](https://i.imgur.com/46oA3xB.png)
+![Captura de Tela 2](https://i.imgur.com/s1tQz21.jpeg)
 
 ## Recursos
 
